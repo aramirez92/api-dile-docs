@@ -12,13 +12,6 @@ Path `/registro`
 
 Auth: false
 
-Body Params:
+Body Params: 
 
-nombre: required
-
-paterno: required
-
-materno: nullable
-
-email: required
-
+nombre: required | paterno: required | materno: nullable | email: required
